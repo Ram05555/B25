@@ -60,7 +60,7 @@ a {
   background-color: #239b76;
 }
 
-.facebook {
+/*.facebook {
   background-color: #3b5998;
   margin-right: 10px;
 }
@@ -68,6 +68,14 @@ a {
 .twitter {
   background-color: #55acee;
 }
+
+.youtube {
+  background-color: #55acee;
+}
+
+.instagram {
+  background-color: #55acee;
+}*/
 
 .btn-wrapper {
   margin: 20px 0;
@@ -192,7 +200,7 @@ header {
 footer {
   padding-top: 30px;
   background-color: #2f5167;
-  height: 120px;
+  height: 100px;
   color: #fff;
 }
 
@@ -209,3 +217,8 @@ footer {
   padding-bottom: 20px;
 }
 
+.footer-contact a {
+  margin-top: 10px;
+  float: right;
+  font-size: 28px;
+}
